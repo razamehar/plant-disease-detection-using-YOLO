@@ -1,0 +1,13 @@
+opencv-python
+requests
+numpy
+matplotlib
+tensorflow
+scipy
+ultralytics
+roboflow
+imgaug
+google-colab
+keras
+scikit-learn
+scikit-fuzzy

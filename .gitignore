@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__
+Plant_Disease_Detection_using_Yolo8m_V7.0.pdf
+Plant_Disease_Detection_using_Yolo8m_V7.0.pptx
