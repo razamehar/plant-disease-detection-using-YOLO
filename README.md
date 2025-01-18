@@ -1,4 +1,4 @@
-# Plant Disease Detection Using YOLO
+# Plant Disease Detection Using Non-negative Matrix Factorization (NMF), Fuzzy Clustering, and YOLO
 This project aims to develop a robust plant disease detection system using advanced machine learning techniques, primarily leveraging YOLO (You Only Look Once) for object detection. The workflow includes data preprocessing, feature extraction, non-negative matrix factorization (NMF), fuzzy clustering, and model training.
 
 ## Project Overview
